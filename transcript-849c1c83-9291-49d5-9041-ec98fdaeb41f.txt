@@ -1,0 +1,64 @@
+Call Transcript — 849c1c83-9291-49d5-9041-ec98fdaeb41f
+Oct 9, 2026, 11:19 AM
+
+Agent: Hi priya,
+
+Customer: Hello?
+
+Agent: Hi Priya, this is Shivaja calling. Do you have a quick minute to talk?
+
+Customer: Pef
+
+Agent: Great, thank you. I’m Shivaja calling from Salesagent.ai. Am I speaking with Priya, the account holder?
+
+Customer: Yes.
+
+Agent: Thank you for confirming. I’m calling to let you know about a special offer: a pre-approved Loan Against Property up to ₹75,00,000. I’ll just need to ask a few quick questions to check your basic eligibility. Then, a senior loan expert will follow up with details like rates and next steps. 
+
+Let’s start with this: is the property Residential, Commercial, or Industrial?
+
+Customer: It's a residential and it is in Hyderabad.
+
+Agent: Got it, Residential property in Hyderabad. Next, could you tell me if the property is solely in your name or jointly owned with someone else?
+
+Customer: Solo.
+
+Agent: Thank you, that’s noted. Do you have the original property documents available for verification?
+
+Customer: Yes, I have.
+
+Agent: Perfect. Now, approximately how much loan amount are you looking for?
+
+Customer: I need a round
+
+Agent: Understood, the maximum cap for this offer is ₹75,00,000. Would you like to proceed with up to ₹75,00,000?
+
+Customer: I will get it quickly.
+
+Agent: Thank you for clarifying. Let’s proceed with ₹50,00,000. Now, are you salaried or self-employed? And is your income received in a bank account or mostly in cash?
+
+Customer: And salad probably comes into my batting book.
+
+Agent: Thanks for sharing that. Next, what’s the approximate current market value of the property?
+
+Customer: 
+
+Agent: If you're not sure of the
+
+Customer: Kadins mod.
+
+Agent: No problem, just your best estimate will help. Could you give me a rough idea of the property’s market value?
+
+Customer: Market value is about 1.2 crore.
+
+Agent: Thank you for that. And lastly, in how many years would you prefer to repay the loan—somewhere between 3 and 15 years?
+
+Customer: Ten years.
+
+Agent: Thanks for confirming 10 years. Let me summarize: Residential property, solely owned, original documents available, looking for ₹50,00,000 loan, salaried with income in bank, market value around ₹1.2 crore, and a 10-year repayment period. 
+
+A senior loan expert will reach out shortly to discuss the interest rate, EMI options, and next steps. What would be the best time for their callback?
+
+Customer: Evening.
+
+Agent: Thanks so much for your time today, have a great day!
